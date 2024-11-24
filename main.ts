@@ -1,4 +1,4 @@
-import { Smallblog } from "jsr:@tayzendev/smallblog@1.1.2";
+import { Smallblog } from "jsr:@tayzendev/smallblog@1.1.3";
 
 export default new Smallblog({
   siteDescription:
@@ -7,4 +7,5 @@ export default new Smallblog({
   indexTitle: "A blog about nothing",
   indexSubtitle: "A nice demo of smallblog",
   defaultAuthors: ["Owner"],
+  noArticlesMessage: "<h3>Coming soon!</h3>",
 });
