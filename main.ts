@@ -1,4 +1,4 @@
-import { Smallblog } from "jsr:@tayzendev/smallblog@1.1.4";
+import { Smallblog } from "jsr:@tayzendev/smallblog@1.1.5";
 
 export default new Smallblog({
   siteDescription:
