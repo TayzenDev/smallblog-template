@@ -47,9 +47,38 @@ reprehenderit. Exercitation irure incididunt commodo elit deserunt ipsum. Dolor
 excepteur tempor occaecat aliquip fugiat Lorem duis magna ea consectetur laboris
 occaecat. Deserunt ea aute aliqua cupidatat do sint velit cillum amet tempor ex._**
 
+### Special text formatting
+
+This is a break:
+
+---
+
+Strikethrough: ~~Strikethrough~~
+
+This is\
+an hardline break!
+
 ### Citation
 
 > A Very Long Citation
+
+### Footnotes
+
+[^1]: This is a footnote
+
+[^bignote]: The first paragraph of the definition.
+
+    Paragraph two of the definition.
+
+Here is a simple footnote[^1]. Here is a big footnote[^bignote], it can contain anything you want.
+
+### Links
+
+[foo]: https://github.com/Tayzendev/smallblog "Smallblog's github"
+
+This is a [link](https://jsr.io/@tayzendev/smallblog)
+
+Link reference definition: [foo].
 
 ### Code
 
